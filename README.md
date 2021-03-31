@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lfmichel
+- 👋 Hi, I’m Luiz Fernando.
 - 👀 I’m interested in to learn about to be a developer.
 - 🌱 I’m currently learning git commands, data structures and C.
 - 💞️ I’m looking to collaborate on ... not now, I am learning yet.
